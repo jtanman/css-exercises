@@ -64,6 +64,5 @@ a {
 }
 
 button {
-  padding: 8px;
-  margin: auto 8px;
+  padding: 8px 16px;
 }
